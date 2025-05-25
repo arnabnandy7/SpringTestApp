@@ -1,3 +1,5 @@
 # SpringTestApp 
 
-<!-- GitAds-Verify: Y5Q48HAYYR73UKP3HNDTXVHB7PCY9AUU -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/springtestapp@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/springtestapp@github)
+
